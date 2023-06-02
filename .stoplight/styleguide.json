@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Fvqacsam",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjc"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjc",
+      "name": "Sleek Fresh Cheese",
+      "slug": "seeded-sleek-fresh-cheese-4ao7s",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
